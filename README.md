@@ -22,6 +22,8 @@ Networking library use:-
 
 Geting the Json request from Volley and parsing the json. It also show's **how to open fragment from navigation drawer in Android**. And It also show's **how to use swipe refresh**. And It also show's **how to use WebView**.
 
+Fetching data from [News api](https://newsapi.org/).
+
 ## Screenshots:-
 
 <img src="https://github.com/krunalpatel3/News-app-AAC-Example/blob/master/Screenshots/Screenshot_20180808-154229.png" width="250" height="450" /> <img src="https://github.com/krunalpatel3/News-app-AAC-Example/blob/master/Screenshots/Screenshot_20180808-154236.png" width="250" height="450" /> <img src="https://github.com/krunalpatel3/News-app-AAC-Example/blob/master/Screenshots/Screenshot_20180808-154259.png" width="250" height="450" />
