@@ -1,0 +1,35 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">News app</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="from_my_fragment">From My Fragment</string>
+    <string name="textview">TextView</string>
+    <string name="top_news">Top News</string>
+    <string name="health">Health</string>
+    <string name="sports">Sports</string>
+    <string name="technology">Technology</string>
+    <string name="business">Business</string>
+
+    <string name="sample_source">BBC News • 1h</string>
+    <string name="sample_title">Why would Putin want to nuke Florida?</string>
+    <string name="sample_title_long">PM Narendra Modi\'s frivolous statements won\'t help create wedge between me and Congress: Amarinder Singh</string>
+    <string name="sample_description">The Sunshine State is home to Mr Trump\'s golf resort, but bigger targets lie elsewhere in the US.</string>
+    <string name="image_desc">Image for the News Post</string>
+
+    <string name="headline_date_format">
+        <xliff:g example="CNN" id="source">%1s</xliff:g> •
+        <xliff:g example="1m" id="days">%2s</xliff:g>
+    </string>
+    <string name="top_stories">Top Stories</string>
+    <string name="category">Category</string>
+    <string name="image">image</string>
+
+
+</resources>

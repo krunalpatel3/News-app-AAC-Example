@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_topnews"
+            android:icon="@mipmap/topnews"
+            android:title="@string/top_news" />
+        <item
+            android:id="@+id/nav_health"
+            android:icon="@mipmap/health"
+            android:title="@string/health" />
+        <item
+            android:id="@+id/nav_sports"
+            android:icon="@mipmap/sports"
+            android:title="@string/sports" />
+        <item
+            android:id="@+id/nav_technology"
+            android:icon="@mipmap/technology"
+            android:title="@string/technology" />
+
+        <item
+            android:id="@+id/nav_business"
+            android:icon="@mipmap/business"
+            android:title="@string/business" />
+
+    </group>
+
+
+</menu>
