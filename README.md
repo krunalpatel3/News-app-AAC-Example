@@ -20,7 +20,7 @@ Networking library use:-
 
 1) Volley.
 
-Geting the Json request from Volley and parsing the json.It also show's **how to open fragment from navigation drawer in Android**.And It also show's **how to use swipe refresh**.And It also show's **how to use WebView**.
+Geting the Json request from Volley and parsing the json. It also show's **how to open fragment from navigation drawer in Android**. And It also show's **how to use swipe refresh**. And It also show's **how to use WebView**.
 
 ## Screenshots:-
 
